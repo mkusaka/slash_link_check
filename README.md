@@ -1,5 +1,7 @@
 # slash_link_check
 
+![back](https://user-images.githubusercontent.com/24956031/58186870-aee8d300-7cf0-11e9-99a3-a27342601234.gif)
+
 # example for chrome bookmarkbar
 ## codes
 ### change not trailing shashed link background into deep blue
